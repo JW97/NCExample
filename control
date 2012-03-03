@@ -1,0 +1,9 @@
+Package: com.example.ncexample
+Name: NCExample
+Depends: firmware (>= 5.0), com.chpwn.weeloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Widget for Notification Center
+Maintainer: Jack Willis
+Author: Jack Willis
+Section: Widgets
